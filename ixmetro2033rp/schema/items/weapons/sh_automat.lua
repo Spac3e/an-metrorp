@@ -1,0 +1,9 @@
+ITEM.name = "Automat"
+ITEM.description = "A relatively crude weapon appearing to be based off of an old-world designed, the inscription of a C is made into the wooden stock. This weapon uses rifle munitions."
+ITEM.model = "models/weapons/w_fedorov_avtomat.mdl"
+ITEM.class = "tfa_ww1_fedorov_avtomat"
+ITEM.weaponCategory = "primary"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.chance = 11
+ITEM.rare = true

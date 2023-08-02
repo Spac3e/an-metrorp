@@ -1,0 +1,9 @@
+ITEM.name = "Vintar BC"
+ITEM.description = "Suppressed Russian rifle chambered in 9x39mm."
+ITEM.model = "models/weapons/w_stalker_vss.mdl"
+ITEM.class = "stalker_vintorez"
+ITEM.weaponCategory = "primary"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.chance = 8
+ITEM.rare = true

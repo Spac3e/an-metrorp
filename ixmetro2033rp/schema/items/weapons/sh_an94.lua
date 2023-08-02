@@ -1,0 +1,9 @@
+ITEM.name = "Oboken"
+ITEM.description = "A post-war adaptation of the AN-94 utilizing modified rifle rounds."
+ITEM.model = "models/weapons/w_stalker_an94.mdl"
+ITEM.class = "stalker_abaton"
+ITEM.weaponCategory = "primary"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.rare = true
+ITEM.chance = 6

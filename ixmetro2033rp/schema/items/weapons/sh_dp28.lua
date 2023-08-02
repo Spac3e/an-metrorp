@@ -1,0 +1,9 @@
+ITEM.name = "DP-28"
+ITEM.description = "A heavy light machine gun with a bulky bipod and a strange plate-like magazine. It is chambered in rifle rounds."
+ITEM.model = "models/weapons/w_ro2_dp28.mdl"
+ITEM.class = "weapon_ro2_dp28"
+ITEM.weaponCategory = "primary"
+ITEM.width = 4
+ITEM.height = 2
+ITEM.chance = 1
+ITEM.rare = true

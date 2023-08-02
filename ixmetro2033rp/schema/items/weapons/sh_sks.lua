@@ -1,0 +1,9 @@
+ITEM.name = "SKS"
+ITEM.description = "A relic of the pre-war era, it appears to be in relatively decent condition."
+ITEM.model = "models/weapons/tfa_ins2/w_sks.mdl"
+ITEM.class = "tfa_ins2_sks"
+ITEM.weaponCategory = "primary"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.chance = 2
+ITEM.rare = true

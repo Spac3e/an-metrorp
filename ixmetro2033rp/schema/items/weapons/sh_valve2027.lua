@@ -1,0 +1,9 @@
+ITEM.name = "Valve-2027"
+ITEM.description = "The Valve 2027 is a bolt action rifle firing Valve Rounds."
+ITEM.model = "models/redux/weapons/valve.mdl"
+ITEM.class = "tfa_metro_valve"
+ITEM.weaponCategory = "primary"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.chance = 27
+ITEM.rare = true

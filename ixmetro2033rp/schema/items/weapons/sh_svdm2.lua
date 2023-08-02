@@ -1,0 +1,9 @@
+ITEM.name = "SVDM-2"
+ITEM.description = "Russian semi-automatic sniper rifle it's relatively well maintained. Its scope is dusty but it's clear enough to see through. It is chambered chambered in 7.62x54mmR"
+ITEM.model = "models/weapons/w_stalker_svd.mdl"
+ITEM.class = "stalker_dragunov"
+ITEM.weaponCategory = "stalker_dragunov"
+ITEM.width = 4
+ITEM.height = 2
+ITEM.chance = 5
+ITEM.rare = true

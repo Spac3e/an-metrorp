@@ -1,0 +1,9 @@
+ITEM.name = "Luger P08"
+ITEM.description = "A silenced, german pistol utilizing 7.65x21mm"
+ITEM.model = "models/weapons/w_pist_lugr.mdl"
+ITEM.class = "weapon_luger_sil"
+ITEM.weaponCategory = "secondary"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.chance = 1
+ITEM.rare = true

@@ -1,0 +1,9 @@
+ITEM.name = "AKS-74"
+ITEM.description = "Russian assault rifle used by military forces from pre-war. Uses Modified Rifle Rounds."
+ITEM.model = "models/weapons/w_stalker_ak74.mdl"
+ITEM.class = "stalker_ak74"
+ITEM.weaponCategory = "primary"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.chance = 3
+ITEM.rare = true

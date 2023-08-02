@@ -1,0 +1,9 @@
+ITEM.name = "Mosin-Nagant"
+ITEM.description = "An old rifle from the Great Patriotic War. Uses 7.62x54mmR."
+ITEM.model = "models/weapons/w_ins2_mosin_nagant.mdl"
+ITEM.class = "tfa_ins2_mosin_nagant"
+ITEM.weaponCategory = "primary"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.chance = 3
+ITEM.rare = true

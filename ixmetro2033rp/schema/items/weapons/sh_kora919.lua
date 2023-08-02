@@ -1,0 +1,9 @@
+ITEM.name = "Kora 919"
+ITEM.description = "Ukrainian-manufactured pistol chambering in 45. ACP."
+ITEM.model = "models/weapons/w_stalker_m1911.mdl"
+ITEM.class = "stalker_colt"
+ITEM.weaponCategory = "secondary"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.chance = 1
+ITEM.rare = true

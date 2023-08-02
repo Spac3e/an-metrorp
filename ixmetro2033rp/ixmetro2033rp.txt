@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"helix"
+	"title"		"Metro 2033 RP"
+	"author"	"Dunkersplay"
+	"menusystem" "1"
+}

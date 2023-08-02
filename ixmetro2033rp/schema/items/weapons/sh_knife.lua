@@ -1,0 +1,9 @@
+ITEM.name = "Knife"
+ITEM.description = "A heavily rusted knife."
+ITEM.model = "models/redux/weapons/knife.mdl"
+ITEM.class = "tfa_metro_knife"
+ITEM.weaponCategory = "melee"
+ITEM.flag = "v"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.chance = 29

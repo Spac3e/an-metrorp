@@ -1,0 +1,27 @@
+
+function Schema:CanPlayerUseBusiness(client, uniqueID)
+	if (client:Team() == FACTION_CITIZEN) then
+		local itemTable = ix.item.list[uniqueID]
+
+		if (itemTable) then
+			if (itemTable.permit) then
+				local character = client:GetCharacter()
+				local inventory = character:GetInventory()
+
+				if (!inventory:HasItem("permit_"..itemTable.permit)) then
+					return false
+				end
+			elseif (itemTable.base ~= "base_permit") then
+				return false
+			end
+		end
+	end
+end
+
+function Schema:GetDefaultAttributePoints(client, count)
+    return ((ix.config.Get("maxAttributes") * table.Count(ix.attributes.list) ) / 2) + 10
+end
+
+function Schema:CanDrive()
+	return false
+end

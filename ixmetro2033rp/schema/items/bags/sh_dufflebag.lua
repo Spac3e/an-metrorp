@@ -1,0 +1,9 @@
+ITEM.name = "Duffle Bag"
+ITEM.model = "models/kek1ch/armor_repair_pro.mdl"
+ITEM.description = "A bag made of cloth with waterproof insulation, appearing to have two straps to hold onto."
+ITEM.invWidth = 4
+ITEM.invHeight = 2
+ITEM.height = 1
+ITEM.width = 2
+ITEM.weight = 10
+ITEM.chance = 51

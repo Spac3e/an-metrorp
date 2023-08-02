@@ -1,0 +1,9 @@
+ITEM.name = "Gepard PDW"
+ITEM.description = "A new design based off of the Kalash, it features a Crown inscribed into the stock rather sloppily."
+ITEM.model = "models/weapons/tfa_l4d2/w_gepard.mdl"
+ITEM.class = "tfa_l4d2_gepard"
+ITEM.weaponCategory = "primary"
+ITEM.width = 3
+ITEM.height = 1
+ITEM.chance = 4
+ITEM.rare = true

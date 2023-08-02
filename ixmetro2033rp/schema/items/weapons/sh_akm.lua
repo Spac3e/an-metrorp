@@ -1,0 +1,9 @@
+ITEM.name = "AKM"
+ITEM.description = "An old-world weapon appearing to have been heavily used. Parts of steel are missing from its design and it is prone to jamming. This rifle uses rifle rounds."
+ITEM.model = "models/weapons/tfa_ins2/w_akm_bw.mdl"
+ITEM.class = "tfa_ins2_akm_bw"
+ITEM.weaponCategory = "primary"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.chance = 23
+ITEM.rare = true

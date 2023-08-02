@@ -1,0 +1,9 @@
+ITEM.name = "RP-74"
+ITEM.description = "Heavy Ukrainian LMG chambed in 7.62x54mmR."
+ITEM.model = "models/weapons/w_stalker_pkm.mdl"
+ITEM.class = "stalker_pkm"
+ITEM.weaponCategory = "primary"
+ITEM.width = 4
+ITEM.height = 2
+ITEM.chance = 4
+ITEM.rare = true

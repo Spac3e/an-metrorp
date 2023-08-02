@@ -1,0 +1,9 @@
+ITEM.name = "Bow"
+ITEM.description = "One of the most ancient forms of weaponry. Uses wooden arrows to silently strike targets."
+ITEM.model = "models/weapons/yurie_rustalpha/wm-huntingbow.mdl"
+ITEM.class = "tfa_rustalpha_hunting_bow"
+ITEM.weaponCategory = "primary"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.chance = 19
+ITEM.rare = true
